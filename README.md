@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **responsive design, plugin customization, troubleshooting, and WordPress performance optimization.**  
 
-- ⚡ Fun fact **I’m passionate about delivering cutting-edge WordPress solutions and always stay updated with the latest industry trends! 🚀**
+- ⚡ Fun fact **I’m passionate about delivering cutting-edge WordPress solutions and always stay updated with the latest industry trends! **
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshnic-addweb&label=Profile%20views&color=0e75b6&style=flat" alt="roshnic-addweb" /> </p>
 
@@ -45,5 +45,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshnic-addweb&show_icons=true&locale=en&layout=compact" alt="roshnic-addweb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshnic-addweb&show_icons=true&locale=en" alt="roshnic-addweb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshnic-addweb&" alt="roshnic-addweb" /></p>
