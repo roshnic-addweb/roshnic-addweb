@@ -9,7 +9,7 @@
 
 - 🤝 I’m always aiming to **deliver high-quality websites, troubleshoot issues, and implement the latest technologies to meet client needs.**  
 
-- 💬 Ask me about **responsive design, plugin customization, troubleshooting, and WordPress performance optimization.**  
+- 💬 Ask me about ** responsive design, plugin customization, troubleshooting, and WordPress performance optimization.**  
 
 - ⚡ Fun fact **I’m passionate about delivering cutting-edge WordPress solutions and always stay updated with the latest industry trends! **
 
@@ -43,5 +43,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshnic-addweb&show_icons=true&locale=en&layout=compact" alt="roshnic-addweb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshnic-addweb&show_icons=true&locale=en" alt="roshnic-addweb" /></p>
