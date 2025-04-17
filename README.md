@@ -9,7 +9,7 @@
 
 - 🤝 I’m always aiming to **deliver high-quality websites, troubleshoot issues, and implement the latest technologies to meet client needs.**  
 
-- 💬 Ask me about ** responsive design, plugin customization, troubleshooting, and WordPress performance optimization.**  
+- 💬 Ask me about **responsive design, plugin customization, troubleshooting, and WordPress performance optimization.**  
 
 - ⚡ Fun fact **I’m passionate about delivering cutting-edge WordPress solutions and always stay updated with the latest industry trends!**
 
