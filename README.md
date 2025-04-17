@@ -11,7 +11,7 @@
 
 - 💬 Ask me about ** responsive design, plugin customization, troubleshooting, and WordPress performance optimization.**  
 
-- ⚡ Fun fact ** I’m passionate about delivering cutting-edge WordPress solutions and always stay updated with the latest industry trends! **
+- ⚡ Fun fact **I’m passionate about delivering cutting-edge WordPress solutions and always stay updated with the latest industry trends!**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshnic-addweb&label=Profile%20views&color=0e75b6&style=flat" alt="roshnic-addweb" /> </p>
 
