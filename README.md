@@ -40,6 +40,3 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshnic-addweb&show_icons=true&locale=en&layout=compact" alt="roshnic-addweb" /></p>
